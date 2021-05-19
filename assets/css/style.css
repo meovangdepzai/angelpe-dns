@@ -153,3 +153,10 @@ i.header--mobilebtn {
     font-size: 21px;
     font-weight: 600;
 }
+#inner {
+     font-size: 5px;
+     font-weight: 30;
+     text-shadow: 1px 5px 6pc #251109;
+     font-family: sans-serif;
+     width: 80%;
+     
