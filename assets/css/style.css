@@ -161,3 +161,11 @@ inner {
      width: 80%;
      color: #FF00FF
 }
+demotext {
+  color: cyan;
+  font-size:3;
+}
+demotext2 {
+  color: gray;
+  font-size:2;
+}
